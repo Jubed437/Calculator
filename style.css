@@ -32,7 +32,10 @@ body{
     background-color: #f4f3f2;
     color: black;
     font-family: sans-serif;
-    font-size: 5rem;
+    font-size: 3rem;
+    overflow-x: auto;
+    white-space: nowrap;
+    box-sizing: border-box;
 }
 .btn-container{
     display:flex;
